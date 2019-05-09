@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 HolaKraken.3
 Hola otra vez
+=======
+HolaKraken.3
+HelloKraken
+>>>>>>> master
